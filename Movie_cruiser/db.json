@@ -1,0 +1,468 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "title": "Captain America",
+      "releaseYear": "1990",
+      "posterPath": "visit"
+    },
+    {
+      "id": 1,
+      "title": "Generation X ",
+      "releaseYear": "1996",
+      "posterPath": "visit"
+    },
+    {
+      "id": 2,
+      "title": "Nick Fury: Agent of S.H.I.E.L.D. ",
+      "releaseYear": "1998",
+      "posterPath": "visit"
+    },
+    {
+      "id": 3,
+      "title": "Blade ",
+      "releaseYear": "1998",
+      "posterPath": "visit"
+    },
+    {
+      "id": 4,
+      "title": "X-Men ",
+      "releaseYear": "2000 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 5,
+      "title": "Blade II ",
+      "releaseYear": "2002 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 6,
+      "title": "Spider-Man ",
+      "releaseYear": "2002",
+      "posterPath": "visit"
+    },
+    {
+      "id": 7,
+      "title": "Daredevil ",
+      "releaseYear": "2003 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 8,
+      "title": "X2 ",
+      "releaseYear": "2003 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 9,
+      "title": "Hulk ",
+      "releaseYear": "2003 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 10,
+      "title": "The Punisher ",
+      "releaseYear": "2004 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 11,
+      "title": "Spider-Man 2 ",
+      "releaseYear": "2004",
+      "posterPath": "visit"
+    },
+    {
+      "id": 12,
+      "title": "Blade: Trinity ",
+      "releaseYear": "2004 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 13,
+      "title": "Elektra ",
+      "releaseYear": "2005 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 14,
+      "title": "Man-Thing ",
+      "releaseYear": "2005 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 15,
+      "title": "Fantastic Four ",
+      "releaseYear": "2005 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 16,
+      "title": "X-Men: The Last Stand ",
+      "releaseYear": "2006 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 17,
+      "title": "Ultimate Avengers 2 ",
+      "releaseYear": "2006 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 18,
+      "title": "Ghost Rider ",
+      "releaseYear": "2007 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 19,
+      "title": "Spider-Man 3 ",
+      "releaseYear": "2007 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 20,
+      "title": "Fantastic Four: Rise of the Silver Surfer ",
+      "releaseYear": "2007 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 21,
+      "title": "Doctor Strange ",
+      "releaseYear": "2007 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 22,
+      "title": "Iron Man ",
+      "releaseYear": "2008 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 23,
+      "title": "The Incredible Hulk ",
+      "releaseYear": "2008 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 24,
+      "title": "Next Avengers: Heroes of Tomorrow ",
+      "releaseYear": "2008 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 25,
+      "title": "X-Men Origins: Wolverine ",
+      "releaseYear": "2009 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 26,
+      "title": "Iron Man 2",
+      "releaseYear": "2010 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 27,
+      "title": "Thor ",
+      "releaseYear": "2011 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 28,
+      "title": "X-Men: First Class ",
+      "releaseYear": "2011 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 29,
+      "title": "Captain America: The First Avenger ",
+      "releaseYear": "2011 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 30,
+      "title": "The Amazing Spider-Man ",
+      "releaseYear": "2012 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 31,
+      "title": "Iron Man: Rise of Technovore ",
+      "releaseYear": "2013 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 32,
+      "title": "LEGO Marvel Super Heroes: Maximum Overload ",
+      "releaseYear": "2013 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 33,
+      "title": "One-Shot: All Hail the King ",
+      "releaseYear": "2014 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 34,
+      "title": "Avengers Confidential: Black Widow & Punisher ",
+      "releaseYear": "2014 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 35,
+      "title": "Captain America: The Winter Soldier ",
+      "releaseYear": "2014 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 36,
+      "title": "The Amazing Spider-Man 2 ",
+      "releaseYear": "2014 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 37,
+      "title": "X-Men: Days of Future Past ",
+      "releaseYear": "2014 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 38,
+      "title": "Guardians of the Galaxy ",
+      "releaseYear": "2014 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 39,
+      "title": "Fantastic Four ",
+      "releaseYear": "2015 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 40,
+      "title": "Super Hero Adventures: Frost Fight! ",
+      "releaseYear": "2015 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 41,
+      "title": "Deadpool ",
+      "releaseYear": "2016 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 42,
+      "title": "Captain America: Civil War ",
+      "releaseYear": "2016 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 43,
+      "title": "X-Men: Apocalypse ",
+      "releaseYear": "2016 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 44,
+      "title": "Doctor Strange",
+      "releaseYear": "2016 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 45,
+      "title": "Logan ",
+      "releaseYear": "2017 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 46,
+      "title": " Guardians of the Galaxy ",
+      "releaseYear": "2017 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 47,
+      "title": "Black Panther  ",
+      "releaseYear": "2018 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 48,
+      "title": "Deadpool 2 ",
+      "releaseYear": "2018 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 49,
+      "title": "Rising: Secret Warriors ",
+      "releaseYear": "2018 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 50,
+      "title": "Venom ",
+      "releaseYear": "2019 ",
+      "posterPath": "visit"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 0,
+      "title": "Captain America",
+      "releaseYear": "1990"
+    },
+    {
+      "id": 4,
+      "title": "X-Men ",
+      "releaseYear": "2000 "
+    },
+    {
+      "id": 6,
+      "title": "Spider-Man ",
+      "releaseYear": "2002"
+    },
+    {
+      "id": 7,
+      "title": "Daredevil ",
+      "releaseYear": "2003 "
+    },
+    {
+      "id": 9,
+      "title": "Hulk ",
+      "releaseYear": "2003 "
+    },
+    {
+      "id": 11,
+      "title": "Spider-Man 2 ",
+      "releaseYear": "2004"
+    },
+    {
+      "id": 12,
+      "title": "Ghost Rider ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Spider-Man 3 ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Fantastic Four: Rise of the Silver Surfer ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Doctor Strange ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Iron Man ",
+      "releaseYear": "2008 "
+    },
+    {
+      "id": 12,
+      "title": "The Incredible Hulk ",
+      "releaseYear": "2008 "
+    },
+    {
+      "id": 2,
+      "title": "Nick Fury: Agent of S.H.I.E.L.D. ",
+      "releaseYear": "1998",
+      "posterPath": "visit"
+    },
+    {
+      "id": 44,
+      "title": "Doctor Strange",
+      "releaseYear": "2016 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 3,
+      "title": "Blade ",
+      "releaseYear": "1998",
+      "posterPath": "visit"
+    },
+    {
+      "id": 14,
+      "title": "Man-Thing ",
+      "releaseYear": "2005 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 17,
+      "title": "Ultimate Avengers 2 ",
+      "releaseYear": "2006 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 20,
+      "title": "Fantastic Four: Rise of the Silver Surfer ",
+      "releaseYear": "2007 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 18,
+      "title": "Ghost Rider ",
+      "releaseYear": "2007 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 23,
+      "title": "The Incredible Hulk ",
+      "releaseYear": "2008 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 19,
+      "title": "Spider-Man 3 ",
+      "releaseYear": "2007 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 22,
+      "title": "Iron Man ",
+      "releaseYear": "2008 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 24,
+      "title": "Next Avengers: Heroes of Tomorrow ",
+      "releaseYear": "2008 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 33,
+      "title": "One-Shot: All Hail the King ",
+      "releaseYear": "2014 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 45,
+      "title": "Captain America",
+      "releaseYear": "1990",
+      "posterPath": "visit"
+    },
+    {
+      "id": 29,
+      "title": "Captain America: The First Avenger ",
+      "releaseYear": "2011 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 32,
+      "title": "LEGO Marvel Super Heroes: Maximum Overload ",
+      "releaseYear": "2013 ",
+      "posterPath": "visit"
+    },
+    {
+      "id": 46,
+      "title": "Captain America",
+      "releaseYear": "1990",
+      "posterPath": "visit"
+    }
+  ]
+}
