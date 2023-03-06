@@ -1,0 +1,321 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "title": "Captain America",
+      "releaseYear": "1990"
+    },
+    {
+      "id": 1,
+      "title": "Generation X ",
+      "releaseYear": "1996"
+    },
+    {
+      "id": 2,
+      "title": "Nick Fury: Agent of S.H.I.E.L.D. ",
+      "releaseYear": "1998"
+    },
+    {
+      "id": 3,
+      "title": "Blade ",
+      "releaseYear": "1998"
+    },
+    {
+      "id": 4,
+      "title": "X-Men ",
+      "releaseYear": "2000 "
+    },
+    {
+      "id": 5,
+      "title": "Blade II ",
+      "releaseYear": "2002 "
+    },
+    {
+      "id": 6,
+      "title": "Spider-Man ",
+      "releaseYear": "2002"
+    },
+    {
+      "id": 7,
+      "title": "Daredevil ",
+      "releaseYear": "2003 "
+    },
+    {
+      "id": 8,
+      "title": "X2 ",
+      "releaseYear": "2003 "
+    },
+    {
+      "id": 9,
+      "title": "Hulk ",
+      "releaseYear": "2003 "
+    },
+    {
+      "id": 10,
+      "title": "The Punisher ",
+      "releaseYear": "2004 "
+    },
+    {
+      "id": 11,
+      "title": "Spider-Man 2 ",
+      "releaseYear": "2004"
+    },
+    {
+      "id": 12,
+      "title": "Blade: Trinity ",
+      "releaseYear": "2004 "
+    },
+    {
+      "id": 12,
+      "title": "Elektra ",
+      "releaseYear": "2005 "
+    },
+    {
+      "id": 12,
+      "title": "Man-Thing ",
+      "releaseYear": "2005 "
+    },
+    {
+      "id": 12,
+      "title": "Fantastic Four ",
+      "releaseYear": "2005 "
+    },
+    {
+      "id": 12,
+      "title": "X-Men: The Last Stand ",
+      "releaseYear": "2006 "
+    },
+    {
+      "id": 12,
+      "title": "Ultimate Avengers 2 ",
+      "releaseYear": "2006 "
+    },
+    {
+      "id": 12,
+      "title": "Ghost Rider ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Spider-Man 3 ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Fantastic Four: Rise of the Silver Surfer ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Doctor Strange ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Iron Man ",
+      "releaseYear": "2008 "
+    },
+    {
+      "id": 12,
+      "title": "The Incredible Hulk ",
+      "releaseYear": "2008 "
+    },
+    {
+      "id": 12,
+      "title": "Next Avengers: Heroes of Tomorrow ",
+      "releaseYear": "2008 "
+    },
+    {
+      "id": 12,
+      "title": "X-Men Origins: Wolverine ",
+      "releaseYear": "2009 "
+    },
+    {
+      "id": 12,
+      "title": "Iron Man 2",
+      "releaseYear": "2010 "
+    },
+    {
+      "id": 12,
+      "title": "Thor ",
+      "releaseYear": "2011 "
+    },
+    {
+      "id": 12,
+      "title": "X-Men: First Class ",
+      "releaseYear": "2011 "
+    },
+    {
+      "id": 12,
+      "title": "Captain America: The First Avenger ",
+      "releaseYear": "2011 "
+    },
+    {
+      "id": 12,
+      "title": "The Amazing Spider-Man ",
+      "releaseYear": "2012 "
+    },
+    {
+      "id": 12,
+      "title": "Iron Man: Rise of Technovore ",
+      "releaseYear": "2013 "
+    },
+    {
+      "id": 12,
+      "title": "LEGO Marvel Super Heroes: Maximum Overload ",
+      "releaseYear": "2013 "
+    },
+    {
+      "id": 12,
+      "title": "One-Shot: All Hail the King ",
+      "releaseYear": "2014 "
+    },
+    {
+      "id": 12,
+      "title": "Avengers Confidential: Black Widow & Punisher ",
+      "releaseYear": "2014 "
+    },
+    {
+      "id": 12,
+      "title": "Captain America: The Winter Soldier ",
+      "releaseYear": "2014 "
+    },
+    {
+      "id": 12,
+      "title": "The Amazing Spider-Man 2 ",
+      "releaseYear": "2014 "
+    },
+    {
+      "id": 12,
+      "title": "X-Men: Days of Future Past ",
+      "releaseYear": "2014 "
+    },
+    {
+      "id": 12,
+      "title": "Guardians of the Galaxy ",
+      "releaseYear": "2014 "
+    },
+    {
+      "id": 12,
+      "title": "Fantastic Four ",
+      "releaseYear": "2015 "
+    },
+    {
+      "id": 12,
+      "title": "Super Hero Adventures: Frost Fight! ",
+      "releaseYear": "2015 "
+    },
+    {
+      "id": 12,
+      "title": "Deadpool ",
+      "releaseYear": "2016 "
+    },
+    {
+      "id": 12,
+      "title": "Captain America: Civil War ",
+      "releaseYear": "2016 "
+    },
+    {
+      "id": 12,
+      "title": "X-Men: Apocalypse ",
+      "releaseYear": "2016 "
+    },
+    {
+      "id": 12,
+      "title": "Doctor Strange",
+      "releaseYear": "2016 "
+    },
+    {
+      "id": 12,
+      "title": "Logan ",
+      "releaseYear": "2017 "
+    },
+    {
+      "id": 12,
+      "title": " Guardians of the Galaxy ",
+      "releaseYear": "2017 "
+    },
+    {
+      "id": 12,
+      "title": "Black Panther  ",
+      "releaseYear": "2018 "
+    },
+    {
+      "id": 12,
+      "title": "Deadpool 2 ",
+      "releaseYear": "2018 "
+    },
+    {
+      "id": 12,
+      "title": "Rising: Secret Warriors ",
+      "releaseYear": "2018 "
+    },
+    {
+      "id": 12,
+      "title": "Venom ",
+      "releaseYear": "2019 "
+    }
+  ],
+  "favourites": [
+    {
+      "id": 0,
+      "title": "Captain America",
+      "releaseYear": "1990"
+    },
+    {
+      "id": 4,
+      "title": "X-Men ",
+      "releaseYear": "2000 "
+    },
+    {
+      "id": 6,
+      "title": "Spider-Man ",
+      "releaseYear": "2002"
+    },
+    {
+      "id": 7,
+      "title": "Daredevil ",
+      "releaseYear": "2003 "
+    },
+    {
+      "id": 9,
+      "title": "Hulk ",
+      "releaseYear": "2003 "
+    },
+    {
+      "id": 11,
+      "title": "Spider-Man 2 ",
+      "releaseYear": "2004"
+    },
+    {
+      "id": 12,
+      "title": "Ghost Rider ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Spider-Man 3 ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Fantastic Four: Rise of the Silver Surfer ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Doctor Strange ",
+      "releaseYear": "2007 "
+    },
+    {
+      "id": 12,
+      "title": "Iron Man ",
+      "releaseYear": "2008 "
+    },
+    {
+      "id": 12,
+      "title": "The Incredible Hulk ",
+      "releaseYear": "2008 "
+    }
+  ]
+}
